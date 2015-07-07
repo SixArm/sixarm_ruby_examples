@@ -15,8 +15,3 @@ These implementations show some test driven development, edge-case handling, arg
 For docs go to <http://sixarm.com/sixarm_ruby_factorial>
 
 Want to help? We're happy to get pull requests.
-
-
-## Changes
-
-* 2012-03-14 1.0.0 Update docs, tests
