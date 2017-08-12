@@ -1,4 +1,4 @@
-# Ruby » <br> Examples for programming discussion
+SixArm.com → Ruby → <br> Examples for programming discussion
 
 * Doc: <http://sixarm.com/sixarm_ruby_factorial>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_>
